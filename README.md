@@ -50,7 +50,7 @@ To run the example locally you need to:
 3. Set the required Hugging Face environment variable with the token as shown [the example env file](./.env.local.example) but in a new file called `.env.local`.
 4. Clone the repository, `git clone https://github.com/ElonMusk2002/chat-huggingface.git`
 5. Install the required dependencies with `npm install`
-6. Launch the development server with `npm dev`
+6. Launch the development server with `npm run dev`
 
 ## 🛠️ Built With
 
